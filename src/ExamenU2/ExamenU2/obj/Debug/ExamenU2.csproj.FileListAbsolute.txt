@@ -1,0 +1,7 @@
+C:\Users\Migue\source\repos\Projects\ExamenU2\ExamenU2\bin\Debug\ExamenU2.exe.config
+C:\Users\Migue\source\repos\Projects\ExamenU2\ExamenU2\bin\Debug\ExamenU2.exe
+C:\Users\Migue\source\repos\Projects\ExamenU2\ExamenU2\bin\Debug\ExamenU2.pdb
+C:\Users\Migue\source\repos\Projects\ExamenU2\ExamenU2\obj\Debug\ExamenU2.csproj.AssemblyReference.cache
+C:\Users\Migue\source\repos\Projects\ExamenU2\ExamenU2\obj\Debug\ExamenU2.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Projects\ExamenU2\ExamenU2\obj\Debug\ExamenU2.exe
+C:\Users\Migue\source\repos\Projects\ExamenU2\ExamenU2\obj\Debug\ExamenU2.pdb

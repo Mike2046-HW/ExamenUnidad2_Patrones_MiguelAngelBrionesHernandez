@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{440D85A2-E2DA-4125-8639-527652ED2CF1}|ExamenU2\\ExamenU2.csproj|c:\\users\\migue\\onedrive\\escritorio\\examen u2\\examenu2\\examenu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440D85A2-E2DA-4125-8639-527652ED2CF1}|ExamenU2\\ExamenU2.csproj|solutionrelative:examenu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440D85A2-E2DA-4125-8639-527652ED2CF1}|ExamenU2\\ExamenU2.csproj|C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\examenu2\\gestorparque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440D85A2-E2DA-4125-8639-527652ED2CF1}|ExamenU2\\ExamenU2.csproj|solutionrelative:examenu2\\gestorparque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440D85A2-E2DA-4125-8639-527652ED2CF1}|ExamenU2\\ExamenU2.csproj|C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\examenu2\\atracciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440D85A2-E2DA-4125-8639-527652ED2CF1}|ExamenU2\\ExamenU2.csproj|solutionrelative:examenu2\\atracciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440D85A2-E2DA-4125-8639-527652ED2CF1}|ExamenU2\\ExamenU2.csproj|C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\examenu2\\iatraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440D85A2-E2DA-4125-8639-527652ED2CF1}|ExamenU2\\ExamenU2.csproj|solutionrelative:examenu2\\iatraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAtraccion.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\ExamenU2\\IAtraccion.cs",
+              "RelativeDocumentMoniker": "ExamenU2\\IAtraccion.cs",
+              "ToolTip": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\ExamenU2\\IAtraccion.cs",
+              "RelativeToolTip": "ExamenU2\\IAtraccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:01:48.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Atracciones.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\ExamenU2\\Atracciones.cs",
+              "RelativeDocumentMoniker": "ExamenU2\\Atracciones.cs",
+              "ToolTip": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\ExamenU2\\Atracciones.cs",
+              "RelativeToolTip": "ExamenU2\\Atracciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:01:20.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorParque.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\ExamenU2\\GestorParque.cs",
+              "RelativeDocumentMoniker": "ExamenU2\\GestorParque.cs",
+              "ToolTip": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\ExamenU2\\GestorParque.cs",
+              "RelativeToolTip": "ExamenU2\\GestorParque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:00:35.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\ExamenU2\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenU2\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\OneDrive\\Escritorio\\Examen U2\\ExamenU2\\ExamenU2\\Program.cs",
+              "RelativeToolTip": "ExamenU2\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:00:04.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
